@@ -145,7 +145,7 @@ Add a screenshot of the application here.
 Example:
 
 ```
-![App Screenshot](screenshot.png)
+!Screenshot.png
 ```
 
 ---
